@@ -13,3 +13,4 @@
 * file /tmp/iamafile: displays the type of a file named iamafile in the /tmp folder
 * ln -s /bin/ls __ls__: creates a symbolic link to /bin/ls, named __ls__
 * cp -n *.html ../: copies all .non-existent .html file into the parent directory
+* mv [[:upper:]]* /tmp/u: moves all files beginning with an uppercase letter to the directory /tmp/u
