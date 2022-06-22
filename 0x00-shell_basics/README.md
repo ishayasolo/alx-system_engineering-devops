@@ -9,3 +9,5 @@
 * rm /tmp/my_first_directory/betty: removes betty from /tmp/my_first_directory
 * rmdir /tmp/my_first_directory/: removes the directory my_first_directory that is in the /tmp directory
 * cd -: changes the working directory to the previous one
+* ls -alu: displays directory contents according to the way it was specified
+* file /tmp/iamafile: displays the type of a file named iamafile in the /tmp folder
