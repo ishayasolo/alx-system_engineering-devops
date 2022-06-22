@@ -11,3 +11,4 @@
 * cd -: changes the working directory to the previous one
 * ls -alu: displays directory contents according to the way it was specified
 * file /tmp/iamafile: displays the type of a file named iamafile in the /tmp folder
+* ln -s /bin/ls __ls__: creates a symbolic link to /bin/ls, named __ls__
