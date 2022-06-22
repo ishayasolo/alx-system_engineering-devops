@@ -15,4 +15,4 @@
 * cp -n *.html ../: copies all .non-existent .html file into the parent directory
 * mv [[:upper:]]* /tmp/u: moves all files beginning with an uppercase letter to the directory /tmp/u
 * rm ~*: removes all files that begin with ~ in the current directory
-* mkdir welcom welcome/to welcome/to/school: creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory
+* mkdir {welcome,welcome/to,welcome/to/school}: creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory
